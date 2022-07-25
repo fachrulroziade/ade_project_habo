@@ -1,3 +1,3 @@
 
 
-print('POTO PORNO')
+print('Bismillah')
